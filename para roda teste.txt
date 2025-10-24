@@ -1,0 +1,6 @@
+npm start
+
+
+erros usar esse comandos :
+
+npm install
